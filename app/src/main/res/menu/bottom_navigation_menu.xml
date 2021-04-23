@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_order"
+        android:icon="@drawable/ic_order"
+        android:title="Order"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/navigation_goout"
+        android:icon="@drawable/ic_goout"
+        android:title="Go Out"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/navigation_pro"
+        android:icon="@drawable/ic_pro1"
+        android:title="Pro" />
+    <item
+        android:id="@+id/navigation_nutrition"
+        android:icon="@drawable/ic_nutri"
+        android:title="Nutrition" />
+
+</menu>

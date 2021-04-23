@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomChipStyle" parent="Widget.MaterialComponents.Chip.Filter">
+
+     <item name="chipCornerRadius">6dp</item>
+        <item name="chipBackgroundColor">@color/white</item>
+        <item name="chipStrokeColor">@color/black</item>
+        <item name="chipStrokeWidth">1px</item>
+
+    </style>
+
+    <style name="CustomImageStyle">
+        <item name="cornerRadius">5dp</item>
+        <item name="background">@drawable/background</item>
+
+    </style>
+
+
+</resources>

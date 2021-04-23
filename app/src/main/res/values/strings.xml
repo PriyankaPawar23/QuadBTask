@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuadBTask</string>
+    <string name="searchHint">Restaurant name, cuisine, or a dish...</string>
+    <string name="pro">Pro</string>
+    <string name="cuisines">Cuisines</string>
+    <string name="rating">Rating: 4.0+</string>
+    <string name="max">MAX Safety</string>
+    <string name="fastest">Fastest Delivery</string>
+    <string name="offer">Offers</string>
+    <string name="takeaway">Takeaway</string>
+    <string name="more">More</string>
+    <string name="eat">Eat what makes you happy</string>
+</resources>
